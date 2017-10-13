@@ -1,0 +1,6 @@
+DevOps
+Scrum
+Metodologias Agiles
+Continuos
+Integration
+Continuos delivery
